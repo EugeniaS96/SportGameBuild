@@ -282,7 +282,7 @@ Error generating stack: `+c.message+`
 `,H2=b.div`
   font-weight: 800;
   font-size: 17px;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.5px;
   color: ${({theme:n})=>n.colors.white};
 `,V2=b.div`
   font-weight: 800;
@@ -300,12 +300,12 @@ Error generating stack: `+c.message+`
   font-weight: 800;
   font-size: 17px;
   line-height: 176%;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.5px;
   color: ${({theme:n})=>n.colors.white};
 `,X2=b.div`
   font-weight: 800;
   font-size: 17px;
-  letter-spacing: 0.2px;
+  letter-spacing: 0.3px;
   color: ${({theme:n})=>n.colors.red};
 `,dm="https://eugenias96.github.io/SportGameBuild/assets/a.nevsky-CDhX10_C.svg",hm=()=>p.jsxs(D2,{children:[p.jsx(U2,{src:dm,alt:"Александр Невский"}),p.jsxs(q2,{children:[p.jsxs(H2,{children:["Международные",p.jsx("br",{}),"спортивные игры"]}),p.jsxs(V2,{children:["Александра",p.jsx("br",{}),"Невского"]}),p.jsxs(G2,{children:[p.jsx(Q2,{children:"Санкт‑Петербург"}),p.jsx(X2,{children:"2025"})]})]})]}),Z2=b.button`
   position: relative;
@@ -1727,7 +1727,7 @@ width: 100%;
   width: 100vw;
   height: 111px;
   overflow: hidden;
-  margin-bottom: -30px;
+  margin-bottom: -50px;
   left: 50%;
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
